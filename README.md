@@ -9,7 +9,7 @@
 
 **Cloud:** Azure · AWS · Azure Arc · Azure Monitor  
 **Automation:** Ansible · AWX · Azure Bicep · Terraform  
-**Containers:** Kubernetes · Docker 
+**Containers:** Kubernetes · Docker /n
 **Networking:** SD-WAN · Palo Alto · Cisco cEdge  
 **Scripting:** Python · Bash · Linux  
 **CI/CD:** GitHub Actions · Azure DevOps  
