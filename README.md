@@ -1,7 +1,7 @@
 # Hello, I'm Shruti Pandey 
 
  **Cloud & DevOps Engineer**  
- Multi-cloud infra (Azure + AWS) | Kubernetes | Ansible | IaC | Kubernetes
+ Multi-cloud infra (Azure + AWS) | Kubernetes | Ansible | IaC
 
 ---
 
@@ -9,7 +9,7 @@
 
 **Cloud:** Azure · AWS · Azure Arc · Azure Monitor  
 **Automation:** Ansible · AWX · Azure Bicep · Terraform  
-**Containers:** Kubernetes · Docker 
+**Containers:** Kubernetes · Docker
 **Networking:** SD-WAN · Palo Alto · Cisco cEdge  
 **Scripting:** Python · Bash · Linux  
 **CI/CD:** GitHub Actions · Azure DevOps  
