@@ -35,4 +35,4 @@
 
 ---
 
- **Reach me:** [LinkedIn](https://www.linkedin.com/in/shruti14pandey/) · shruti.pandey@email.com
+ **Reach me:** [LinkedIn](https://www.linkedin.com/in/shruti14pandey/) · shruti14hpandey@gmail.com
